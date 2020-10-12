@@ -1,0 +1,12 @@
+{
+    "name": "brayan/tour",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Brayan Urbina",
+            "email": "urbinadominguezb@gmail.com"
+        }
+    ],
+    "require": {}
+}
